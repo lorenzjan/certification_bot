@@ -43,6 +43,3 @@ The bot listens for commands prefixed with !. Here are the available commands:
 
 ### Contributing
 Contributions are welcome! If you want to contribute to this project, feel free to open a pull request.
-
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
