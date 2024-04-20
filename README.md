@@ -20,7 +20,7 @@ This Discord bot retrieves certification details for games from the WATA Games A
 ### Installation
 
 1. Clone the repository:
-git clone(https://github.com/lorenzjan/certification_bot.git
+git clone https://github.com/lorenzjan/certification_bot.git
 
 2. Install dependencies:
 pip install -r requirements.txt
