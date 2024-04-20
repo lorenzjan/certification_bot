@@ -30,6 +30,7 @@ pip install -r requirements.txt
 ```python
 TOKEN = 'YOUR_DISCORD_BOT_TOKEN'
 WEBHOOK_URL = 'YOUR_WEBHOOK_URL'
+COUNTER_FILE = 'YOUR_PATH/request_counter.txt'
 ```
 
 4. Run the bot:
