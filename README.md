@@ -38,8 +38,8 @@ python bot.py
 ### Usage
 The bot listens for commands prefixed with !. Here are the available commands:
 
-!wata [certification_number]: Fetches certification details for the specified certification number.
-!request_count: Displays the total number of requests made to the bot.
+- !wata [certification_number]: Fetches certification details for the specified certification number.
+- !request_count: Displays the total number of requests made to the bot.
 
 ### Contributing
 Contributions are welcome! If you want to contribute to this project, feel free to open a pull request.
